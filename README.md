@@ -1,2 +1,3 @@
 # MonPremierProjet
-MonPremierProjet automatiser
+
+Premier projet construit avec le centre ConstructionGPT.
